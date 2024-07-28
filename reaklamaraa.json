@@ -13,21 +13,21 @@
     "userName": "Ervin Howell",
     "petName": "Anto",
     "petImage": "https://www.shutterstock.com/image-photo/boat-tree-sunset-600nw-1770893537.jpg",
-    "isFriendly": false
+    "isFriendly": true
   },
   {
     "id": 3,
     "userName": "Clementine Bauch",
     "petName": "Samaurai",
     "petImage": "https://www.shutterstock.com/image-photo/boat-tree-sunset-600nw-1770893537.jpg",
-    "isFriendly": false
+    "isFriendly": true
   },
   {
     "id": 4,
     "userName": "Patricia Lebsack",
     "petName": "Karin",
     "petImage": "https://www.shutterstock.com/image-photo/boat-tree-sunset-600nw-1770893537.jpg",
-    "isFriendly": false
+    "isFriendly": true
   }
 
  ]
