@@ -12,21 +12,21 @@
     "id": 2,
     "userName": "Ervin Howell",
     "petName": "Anto",
-    "petImage": "https://images.alphacoders.com/134/thumb-440-1348487.webp",
+    "petImage": "https://www.shutterstock.com/image-photo/boat-tree-sunset-600nw-1770893537.jpg",
     "isFriendly": false
   },
   {
     "id": 3,
     "userName": "Clementine Bauch",
     "petName": "Samaurai",
-    "petImage": "https://images.alphacoders.com/134/thumb-440-1348487.webp",
+    "petImage": "https://www.shutterstock.com/image-photo/boat-tree-sunset-600nw-1770893537.jpg",
     "isFriendly": false
   },
   {
     "id": 4,
     "userName": "Patricia Lebsack",
     "petName": "Karin",
-    "petImage": "https://images.alphacoders.com/134/thumb-440-1348487.webp",
+    "petImage": "https://www.shutterstock.com/image-photo/boat-tree-sunset-600nw-1770893537.jpg",
     "isFriendly": false
   }
 
